@@ -26,7 +26,8 @@
 
 
 ## Screenshot of Stress Test Strategy
-![Capture](https://github.com/Rajaul-Islam/Random-User-API-Performance-Test/assets/86623372/5bd155b6-06ce-4b3d-902c-9f824cb3fc0e)
+
+![stress1](https://github.com/Rajaul-Islam/Random-User-API-Performance-Test/assets/86623372/defaf9fe-5ebd-496b-8c9a-13c89c8e8942)
 
 
 ## Load And Stress test Excel File
